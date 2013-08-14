@@ -1,4 +1,3 @@
-tiddlywebplugins.model
-======================
+# About
 
-Model enforcer for TiddlyWeb
+This is a plugin for TiddlyWeb to enforce a data model
